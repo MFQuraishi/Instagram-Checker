@@ -46,7 +46,7 @@ Links will be privided soon.
 6. In case of any error, the message will be prompted and you have to log out, close application
    and start again.
 7. After the completion of process you can view the results.
-8. please be wait for the process to complete before clicking anything.
+8. please wait for the process to complete before clicking anything.
 
 
 ## Links for google drive for drivers and executable files.
