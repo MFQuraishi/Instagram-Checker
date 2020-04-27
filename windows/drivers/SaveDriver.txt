@@ -1,1 +1,2 @@
 download and save drivers for chrome and firefox(gecko) here
+make sure to upload driver for windows with '.exe' extension
