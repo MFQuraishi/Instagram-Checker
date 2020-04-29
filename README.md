@@ -1,5 +1,5 @@
 # Instagram-Checker
-###Check the ones who did not followed you back on instagram.
+### Check the ones who did not followed you back on instagram.
 
 # CONTENTS
 ### 1. What the script does
