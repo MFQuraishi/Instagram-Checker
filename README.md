@@ -33,8 +33,8 @@ followings.
 4. After doing the setup just run the ui.py from the command line or any other python IDE or IDLE.
 
 ### 2. Downloading the executable file
-Links will be privided soon.
-
+1. [For Linux](https://drive.google.com/file/d/1HSzi-LxWj16PgapReJ2Ui2JEIr8t7Eky/view?usp=sharing)
+2. [For Windows](https://drive.google.com/file/d/1gHSGBE62AC5gh2V6f9VcNf3TtlpxBP6x/view?usp=sharing)
 
 ## How to use
 1. After running ui.py or ui(executable) file, a form will open.
@@ -50,7 +50,7 @@ Links will be privided soon.
 
 
 ## Links for google drive for drivers and executable files.
-1. [chrome driver for Linux](https://drive.google.com/file/d/16-IBl8mjrBWsWbor3hG4SaMmory-WQ5a/view?usp=sharing)
-2. [firefox(gecko) driver for Linux](https://drive.google.com/file/d/1wNCTsSyZX-TEoM8a1424rQXuZ6o0IQ0S/view?usp=sharing)
-3. [chrome driver for Windows](https://drive.google.com/file/d/1BEJI63PGQb8sZyKpzP4SNBnBkWN-KKQm/view?usp=sharing)
-4. [firefox(gecko) driver for Windows](https://drive.google.com/file/d/1T9igu2qQPr-y8X4NnYTk9-UdWRuIuDza/view?usp=sharing)
+1. [Chrome driver for Linux](https://drive.google.com/file/d/16-IBl8mjrBWsWbor3hG4SaMmory-WQ5a/view?usp=sharing)
+2. [Firefox(gecko) driver for Linux](https://drive.google.com/file/d/1wNCTsSyZX-TEoM8a1424rQXuZ6o0IQ0S/view?usp=sharing)
+3. [Chrome driver for Windows](https://drive.google.com/file/d/1BEJI63PGQb8sZyKpzP4SNBnBkWN-KKQm/view?usp=sharing)
+4. [Firefox(gecko) driver for Windows](https://drive.google.com/file/d/1T9igu2qQPr-y8X4NnYTk9-UdWRuIuDza/view?usp=sharing)
