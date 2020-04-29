@@ -50,4 +50,7 @@ Links will be privided soon.
 
 
 ## Links for google drive for drivers and executable files.
-links will be provided soon
+1. [chrome driver for Linux](https://drive.google.com/file/d/16-IBl8mjrBWsWbor3hG4SaMmory-WQ5a/view?usp=sharing)
+2. [firefox(gecko) driver for Linux](https://drive.google.com/file/d/1wNCTsSyZX-TEoM8a1424rQXuZ6o0IQ0S/view?usp=sharing)
+3. [chrome driver for Windows](https://drive.google.com/file/d/1BEJI63PGQb8sZyKpzP4SNBnBkWN-KKQm/view?usp=sharing)
+4. [firefox(gecko) driver for Windows](https://drive.google.com/file/d/1T9igu2qQPr-y8X4NnYTk9-UdWRuIuDza/view?usp=sharing)
