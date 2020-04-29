@@ -1,5 +1,5 @@
 # Instagram-Checker
-Check the ones who did not followed you back on instagram.
+###Check the ones who did not followed you back on instagram.
 
 # CONTENTS
 ### 1. What the script does
@@ -20,7 +20,7 @@ followings.
 
 ## How to install
 ### Two ways to use the app.
-###### 1. Setting up on your own by following the steps explained below to install and the script.
+###### 1. Setting up on your own by following the steps explained below to install and run the script.
 ###### 2. By directly downloading the executable file from the links given below
 
 ### 1. Installing on your own
